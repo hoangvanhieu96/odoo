@@ -6775,7 +6775,7 @@ msgstr "Hôm qua"
 #: code:addons/mail/static/src/components/activity/activity.js:0
 #, python-format
 msgid "Yesterday:"
-msgstr "Hôm qua"
+msgstr "Hôm qua:"
 
 #. module: mail
 #. openerp-web
