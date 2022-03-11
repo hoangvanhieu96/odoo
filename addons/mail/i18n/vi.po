@@ -6246,7 +6246,7 @@ msgstr "Hoạt động Hôm nay"
 #: code:addons/mail/static/src/components/activity/activity.js:0
 #, python-format
 msgid "Today:"
-msgstr "Hôm nay"
+msgstr "Hôm nay:"
 
 #. module: mail
 #. openerp-web
