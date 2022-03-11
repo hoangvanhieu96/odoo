@@ -6260,7 +6260,7 @@ msgstr "Ngày mai"
 #: code:addons/mail/static/src/components/activity/activity.js:0
 #, python-format
 msgid "Tomorrow:"
-msgstr "Ngày mai"
+msgstr "Ngày mai:"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.mail_channel_view_form
