@@ -545,7 +545,7 @@ msgstr "Dược phẩm, công nghệ sinh học & Khoa học đời sống"
 #. module: crm_iap_lead
 #: model_terms:ir.ui.view,arch_db:crm_iap_lead.enrich_company
 msgid "Phone"
-msgstr "Điện thoại"
+msgstr "Điện thoại cố định"
 
 #. module: crm_iap_lead
 #: model:ir.model.fields,field_description:crm_iap_lead.field_crm_iap_lead_mining_request__preferred_role_id

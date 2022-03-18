@@ -99,7 +99,7 @@ msgstr "<b>Thư</b>:"
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.event_track_template_new
 msgid "<b>Phone</b>:"
-msgstr "<b>Điện thoại</b>:"
+msgstr "<b>Điện thoại cố định</b>:"
 
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.event_track_template_new
@@ -1667,7 +1667,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_event_track.field_event_track__partner_phone
 #: model_terms:ir.ui.view,arch_db:website_event_track.event_sponsor_view_form
 msgid "Phone"
-msgstr "Điện thoại"
+msgstr "Điện thoại cố định"
 
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.tracks_display_list

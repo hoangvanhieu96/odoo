@@ -795,7 +795,7 @@ msgstr "Sự kiện Đã qua"
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.registration_attendee_details
 msgid "Phone <small>(Optional)</small>"
-msgstr "Điện thoại <small>(Tùy chọn)</small>"
+msgstr "Điện thoại cố định <small>(Tùy chọn)</small>"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.index_sidebar_photos

@@ -2500,7 +2500,7 @@ msgstr "Đối tác"
 #. module: event
 #: model:ir.model.fields,field_description:event.field_event_registration__phone
 msgid "Phone"
-msgstr "Điện thoại"
+msgstr "Điện thoại cố định"
 
 #. module: event
 #: model_terms:event.event,description:event.event_2

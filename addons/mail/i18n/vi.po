@@ -4829,7 +4829,7 @@ msgstr "Đã bị từ chối cấp phép"
 #: model:ir.model.fields,field_description:mail.field_res_partner__phone
 #: model:ir.model.fields,field_description:mail.field_res_users__phone
 msgid "Phone"
-msgstr "Điện thoại"
+msgstr "Điện thoại cố định"
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_mail_render_mixin__copyvalue

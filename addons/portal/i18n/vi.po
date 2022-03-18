@@ -727,7 +727,7 @@ msgstr "Mật khẩu:"
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_my_details
 msgid "Phone"
-msgstr "Điện thoại"
+msgstr "Điện thoại cố định"
 
 #. module: portal
 #. openerp-web

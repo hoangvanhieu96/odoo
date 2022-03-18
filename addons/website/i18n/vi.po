@@ -9206,7 +9206,7 @@ msgstr "trang, snippets, ...)"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.theme_view_form_preview
 msgid "phone"
-msgstr "điện thoại"
+msgstr "điện thoại cố định"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.color_combinations_debug_view

@@ -9744,12 +9744,12 @@ msgstr "<strong>Tên</strong>"
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_res_company_kanban
 msgid "<strong>Phone:</strong>"
-msgstr "<strong>Điện thoại:</strong>"
+msgstr "<strong>Điện thoại cố định:</strong>"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_res_company_kanban
 msgid "<strong>Phone</strong>"
-msgstr "<strong>Điện thoại</strong>"
+msgstr "<strong>Điện thoại cố định</strong>"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.identity_check_wizard
@@ -24767,7 +24767,7 @@ msgstr "Phi-lip-pin"
 #: model_terms:ir.ui.view,arch_db:base.contact
 #, python-format
 msgid "Phone"
-msgstr "Điện thoại"
+msgstr "Điện thoại cố định"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_phone_validation
@@ -24777,7 +24777,7 @@ msgstr "Xác thực số điện thoại"
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_partner_form
 msgid "Phone:"
-msgstr "Điện thoại:"
+msgstr "Điện thoại cố định:"
 
 #. module: base
 #: model:res.country,name:base.pn

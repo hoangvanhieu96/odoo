@@ -3106,7 +3106,7 @@ msgstr "Biểu đồ bánh phần trăm"
 #: model:ir.model.fields,field_description:web.field_base_document_layout__phone
 #, python-format
 msgid "Phone"
-msgstr "Điện thoại"
+msgstr "Điện thoại cố định"
 
 #. module: web
 #. openerp-web

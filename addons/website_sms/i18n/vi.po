@@ -61,7 +61,7 @@ msgid ""
 "There are no contact and/or no phone or mobile numbers linked to this "
 "visitor."
 msgstr ""
-"Không có liên hệ và/hoặc số điện thoại bàn hoặc số di động nào được liên kết"
+"Không có liên hệ và/hoặc số điện thoại cố định hoặc số di động nào được liên kết"
 " với khách truy cập này."
 
 #. module: website_sms

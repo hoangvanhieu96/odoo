@@ -1484,7 +1484,7 @@ msgstr "Thông điệp Treo"
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_transaction__partner_phone
 msgid "Phone"
-msgstr "Điện thoại"
+msgstr "Điện thoại cố định"
 
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.pay

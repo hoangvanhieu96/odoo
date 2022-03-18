@@ -91,7 +91,7 @@ msgid ""
 "                    <b>Phone</b>"
 msgstr ""
 "<i class=\"fa fa-fw mr-2 fa-phone text-primary\"/>\n"
-"                    <b>Phone</b>"
+"                    <b>Điện thoại cố định</b>"
 
 #. module: iap_mail
 #: model_terms:ir.ui.view,arch_db:iap_mail.enrich_company

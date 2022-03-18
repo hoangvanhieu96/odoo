@@ -122,15 +122,15 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_crm_partner_assign.portal_my_opportunity
 msgid "<span class=\"fa fa-phone fa-fw\" role=\"img\" aria-label=\"Phone\" title=\"Phone\"/>"
 msgstr ""
-"<span class=\"fa fa-phone fa-fw\" role=\"img\" aria-label=\"Số điện thoại\" "
-"title=\"Số điện thoại\"/>"
+"<span class=\"fa fa-phone fa-fw\" role=\"img\" aria-label=\"Điện thoại cố định\" "
+"title=\"Điện thoại cố định\"/>"
 
 #. module: website_crm_partner_assign
 #: model_terms:ir.ui.view,arch_db:website_crm_partner_assign.portal_my_lead
 msgid "<span class=\"fa fa-phone\" role=\"img\" aria-label=\"Phone\" title=\"Phone\"/>"
 msgstr ""
-"<span class=\"fa fa-phone\" role=\"img\" aria-label=\"Số điện thoại\" "
-"title=\"Số điện thoại\"/>"
+"<span class=\"fa fa-phone\" role=\"img\" aria-label=\"Điện thoại cố định\" "
+"title=\"Điện thoại cố định\"/>"
 
 #. module: website_crm_partner_assign
 #: model_terms:ir.ui.view,arch_db:website_crm_partner_assign.portal_my_opportunity
@@ -1127,7 +1127,7 @@ msgstr "Quan hệ đối tác"
 #. module: website_crm_partner_assign
 #: model_terms:ir.ui.view,arch_db:website_crm_partner_assign.portal_my_opportunity
 msgid "Phone"
-msgstr "Điện thoại"
+msgstr "Điện thoại cố định"
 
 #. module: website_crm_partner_assign
 #: model_terms:ir.ui.view,arch_db:website_crm_partner_assign.portal_my_opportunity
